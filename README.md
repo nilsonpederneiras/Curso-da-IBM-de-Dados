@@ -1,5 +1,4 @@
-# Curso-da-IBM-de-Dados
-Teste que estou aplicando. Não é nada importante de trabalho, apenas estudos. 
+# data-engineering-labs
 # ☁️ AWS Sandbox & Learning Lab
 
 Este é um repositório de testes e laboratórios práticos para estudos de Cloud Computing, Arquitetura de Soluções e Ciência de Dados.
